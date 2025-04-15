@@ -1,1 +1,1 @@
-2.0.0
+{"version":"2.0.0","oldest_compatible":"2.0.0"}
